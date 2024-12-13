@@ -1,0 +1,36 @@
+[
+    {
+        "nombre": "Juan Pérez",
+        "edad": "30",
+        "genero": "Masculino",
+        "fecha": "2024-12-12 14:30:00",
+        "diagnostico": [
+            {
+                "nombre": "depresion",
+                "descripcion": "La depresión es un trastorno mental caracterizado por tristeza persistente y pérdida de interés.",
+                "tratamiento": "Terapia psicológica, actividad física, y en algunos casos medicación.",
+                "medicamentos": [
+                    "Antidepresivos (bajo prescripción médica)"
+                ],
+                "porcentaje": 85.0
+            }
+        ]
+    },
+    {
+        "nombre": "María López",
+        "edad": "25",
+        "genero": "Femenino",
+        "fecha": "2024-12-11 16:15:00",
+        "diagnostico": [
+            {
+                "nombre": "ansiedad_generalizada",
+                "descripcion": "El trastorno de ansiedad generalizada se caracteriza por preocupación y miedo excesivos.",
+                "tratamiento": "Terapia cognitivo-conductual, técnicas de relajación, y medicación si es necesario.",
+                "medicamentos": [
+                    "Ansiolíticos (bajo prescripción médica)"
+                ],
+                "porcentaje": 90.0
+            }
+        ]
+    }
+]

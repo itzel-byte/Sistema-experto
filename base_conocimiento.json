@@ -1,0 +1,42 @@
+{
+    "depresion": {
+        "sintomas": {
+            "tristeza persistente": 5,
+            "falta de energía": 4,
+            "dificultad para concentrarse": 3,
+            "cambios en el apetito": 2
+        },
+        "tratamiento": "Terapia psicológica, actividad física, y en algunos casos medicación.",
+        "medicamentos": [
+            "Antidepresivos (bajo prescripción médica)"
+        ],
+        "descripcion": "La depresión es un trastorno mental caracterizado por tristeza persistente y pérdida de interés."
+    },
+    "ansiedad_generalizada": {
+        "sintomas": {
+            "preocupación excesiva": 5,
+            "tensión muscular": 3,
+            "dificultad para dormir": 4,
+            "irritabilidad": 3
+        },
+        "tratamiento": "Terapia cognitivo-conductual, técnicas de relajación, y medicación si es necesario.",
+        "medicamentos": [
+            "Ansiolíticos (bajo prescripción médica)"
+        ],
+        "descripcion": "El trastorno de ansiedad generalizada se caracteriza por preocupación y miedo excesivos."
+    },
+    "trastorno_bipolar": {
+        "sintomas": {
+            "episodios de euforia": 5,
+            "cambios drásticos en el estado de ánimo": 4,
+            "hiperactividad": 3,
+            "dificultad para dormir": 4
+        },
+        "tratamiento": "Terapia psicológica, estabilizadores del estado de ánimo, y apoyo familiar.",
+        "medicamentos": [
+            "Estabilizadores del ánimo",
+            "Antipsicóticos"
+        ],
+        "descripcion": "El trastorno bipolar implica cambios extremos en el estado de ánimo y niveles de energía."
+    }
+}
